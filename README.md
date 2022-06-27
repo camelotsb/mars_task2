@@ -1,2 +1,2 @@
 ## mars_task2
-- the question 2 is answered in the src directory
+- the nodes of q6 are in the src directory
