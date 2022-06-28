@@ -209,3 +209,5 @@ target_link_libraries(hello ${catkin_LIBRARIES})
 add_executable(randsensor sample_sensor.cpp)
 target_link_libraries(randsensor ${catkin_LIBRARIES})
 
+add_executable(checkcollision checkcollision.cpp)
+target_link_libraries(checkcollision ${catkin_LIBRARIES})
